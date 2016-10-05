@@ -1,0 +1,14 @@
+{
+    "name": "mhiran/helloworld",
+    "description": "Test for Laravel 5.1 apps.",
+    "authors": [
+        {
+            "name": "Manish Hiran",
+            "email": "hiran.manish@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "minimum-stability": "dev"
+}
