@@ -1,6 +1,6 @@
 <?php
 
-namespace Mhiran\Helloworld;
+namespace Manishhiran\Helloworld;
 
 use App\Http\Controllers\Controller;
 use Carbon\Carbon;
