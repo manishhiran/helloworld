@@ -1,4 +1,4 @@
 <?php
 
 Route::get('timezones/{timezone?}', 
-  'mhiran\helloworld\HelloworldController@index');
+  'manishhiran\helloworld\HelloworldController@index');
