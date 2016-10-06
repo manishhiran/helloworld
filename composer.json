@@ -10,5 +10,11 @@
     "require": {
         "php": ">=5.4.0"
     },
-    "minimum-stability": "stable"
+    "autoload": {
+        "psr-4": {
+            "Manishhiran\\Helloworld\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
