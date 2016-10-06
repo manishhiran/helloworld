@@ -1,6 +1,6 @@
 <?php
 
-namespace Mhiran\Helloworld;
+namespace Manishhiran\Helloworld;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -24,6 +24,6 @@ class HelloworldServiceProvider extends ServiceProvider
     public function register()
     {
         include __DIR__.'/routes.php';
-        $this->app->make('Mhiran\Helloworld\HelloworldController');
+        $this->app->make('Manishhiran\Helloworld\HelloworldController');
     }
 }
